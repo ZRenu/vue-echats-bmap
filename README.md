@@ -34,4 +34,4 @@ npm run build
 npm run build --report
 ```
 
- 兼容性 暂不兼容IE
+##### 暂不兼容IE
