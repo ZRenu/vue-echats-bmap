@@ -6,7 +6,7 @@
 
 ``` bash
 实时路况
-
+ ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 能源热点
 
 空气质量
