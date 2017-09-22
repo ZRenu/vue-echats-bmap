@@ -1,6 +1,7 @@
 # 数据可视化
 
-> A Vue.js project
+> 此项目是有一个已上线的项目简化而来的，主要是利用echats+bdaidumap来实现数据可视化
+
 
 ## Build Setup
 
