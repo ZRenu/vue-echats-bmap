@@ -16,6 +16,9 @@
 项目分部：园区能耗改造分部情况
 ```
 
+## 在线地址 https://zhourenyou.github.io/vue-echats-bmap-web/
+
+## 不兼容IE
 
 
 ## Build Setup
@@ -34,4 +37,3 @@ npm run build
 npm run build --report
 ```
 
-##### 暂不兼容IE
