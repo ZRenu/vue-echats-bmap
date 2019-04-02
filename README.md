@@ -17,6 +17,7 @@
 ```
 
 ## [DEMO](https://zhourenyou.github.io/vue-echats-bmap-web/)
+## 百度地图key过期了，加载完成后请再次刷新网页
 
 
 ## Build Setup
