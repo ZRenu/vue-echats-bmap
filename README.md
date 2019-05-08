@@ -1,6 +1,12 @@
 # 数据可视化
 
-> 此项目是一个已上线的项目简化而来的，主要是利用echats+百度地图来实现数据可视化
+## [Live](https://vuedata.netlify.com)
+
+
+![blockchain](static/1.png)
+![blockchain](static/2.png)
+![blockchain](static/3.png)
+![blockchain](static/4.png)
 
 ## 主要功能
 
@@ -16,8 +22,7 @@
 项目分部：园区能耗改造分部情况
 ```
 
-## [DEMO](https://zhourenyou.github.io/vue-echats-bmap-web/)
-## 百度地图key过期了，加载完成后请再次刷新网页查看效果
+
 
 
 ## Build Setup
